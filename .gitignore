@@ -1,0 +1,8 @@
+# Ambiente virtual
+venv/
+
+# Arquivo com a chave do Gemini (nunca vai para o GitHub)
+.env
+
+# Cache do Python
+__pycache__/
